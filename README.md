@@ -1,5 +1,7 @@
 # It is my concept of an online testing system
-Yes, I thought of it even before the pandemic started!
+Yes, I thought of it even before the pandemic started! 
+
+It took a prize place at a Junior Academy of Sciences of Ukraine competition
 
 ## How to run
 - execute ```php -S 127.0.0.1:80```
